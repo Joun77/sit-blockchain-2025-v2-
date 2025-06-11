@@ -12,6 +12,6 @@
     "qrcode.react": "^4.2.0"
   },
   "scripts": {
-  "start": "your_start_command_here"
+  "start": "npm start"
 }
 }
