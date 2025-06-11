@@ -1,0 +1,9 @@
+1. Copy Source code from Drive
+2. Install
+   - npm install
+3. Compile
+   - npx hardhat compile
+4. Deploy
+    - npx hardhat run scripts/deploy_student.js --network holesky_testnet
+5. Verify
+    - npx hardhat verify --network holesky_testnet DEPLOYED_CONTRACT_ADDRESS 

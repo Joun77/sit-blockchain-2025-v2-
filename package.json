@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "autoprefixer": "^10.4.21",
+    "hardhat": "^2.22.18",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.9"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.8",
+    "ethers": "^6.14.3",
+    "qrcode.react": "^4.2.0"
+  }
+}
